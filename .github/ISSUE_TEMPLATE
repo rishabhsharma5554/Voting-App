@@ -1,0 +1,37 @@
+** PLEASE ONLY USE THIS ISSUE TRACKER TO SUBMIT ISSUES WITH THE EXAMPLE VOTING APP **
+
+
+Please provide the following information so we can assess the issue you're having
+
+**Description**
+
+<!--
+Briefly describe the problem you are having in a few paragraphs.
+-->
+
+**Steps to reproduce the issue, if relevant:**
+1.
+2.
+3.
+
+**Describe the results you received:**
+
+
+**Describe the results you expected:**
+
+
+**Additional information you deem important (e.g. issue happens only occasionally):**
+
+**Output of `docker version`:**
+
+```
+(paste your output here)
+```
+
+**Output of `docker info`:**
+
+```
+(paste your output here)
+```
+
+**Additional environment details (AWS, Docker for Mac, Docker for Windows, VirtualBox, physical, etc.):**
